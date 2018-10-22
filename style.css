@@ -1,0 +1,22 @@
+ .navbar {
+     background-color: blue !important;
+     font-weight: 1000;
+     text-transform: uppercase;
+
+ }
+
+ .navbar a {
+     color: yellow !important;
+     capacity: .5;
+ }
+
+ .navbar a:hover {
+     color: purple !important;
+     opacity: 1;
+ }
+
+ #service h2 {
+     background-color: green;
+     color: red;
+ }
+ 
